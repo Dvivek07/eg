@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changing in clone2
+=======
+changing in clone1
+>>>>>>> fdf08f21b99479bf7cfcc516d4f448005ccedd60
